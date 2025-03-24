@@ -1,0 +1,11 @@
+﻿item,value,description,options
+solver_options,gurobi-highspeed,solver options to use,"gurobi-default, gurobi-stability, gurobi-factory-settings, gurobi-speed, cplex-default, cbc-default"
+write_log_files,1,write out solver log files for debugging,"off (0), on (1)"
+write_lp_files,0,write out LP files for debugging,"off (0), on (1)"
+hours,8760,total hours of the year to solve,between 1 - 8760
+resolution,6,time resolution,default: 3; between 1 - 8760
+input_path,../network/,folder where the input files for the model are located,-
+output_path,../../zz_output/,folder where to store the results,-
+assumptions_path,../settings/,folder where settings and assumptions are stored,-
+slack,20,% above cost-optimal,default: 20
+r_cap,0.1,share of peak demand that is required for reserve capacity,default: 0.1 (=10%)

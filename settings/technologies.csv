@@ -1,0 +1,16 @@
+technology,type
+onwind,generator
+solar_roof,generator
+solar_facade,generator
+ror,generator
+nuclear,generator
+gas,generator
+biogas,generator
+woodybiomass,generator
+waste,generator
+hydro,storage
+PHS,storage
+battery,storage
+H2,storage
+HVDC,transmission
+HVAC,transmission

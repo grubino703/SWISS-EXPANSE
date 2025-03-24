@@ -1,0 +1,201 @@
+technology,year,parameter,value,unit,source
+onwind,2035,lifetime,30,years,DEA 2022
+offwind,2035,lifetime,30,years,DEA 2022
+solar_roof,2035,lifetime,40,years,DEA 2022
+solar_facade,2035,lifetime,40,years,DEA 2022
+ror,2035,lifetime,60,years,ETRI 2014
+nuclear,2035,lifetime,60,years,ETRI 2014
+gas,2035,lifetime,25,years,DEA 2022
+coal,2035,lifetime,40,years,ETRI 2014
+lignite,2035,lifetime,40,years,ETRI 2014
+oil,2035,lifetime,25,years,DEA 2022
+geothermal,2035,lifetime,30,years,ETRI 2014
+biogas,2035,lifetime,20,years,ETRI 2014
+woodybiomass,2035,lifetime,25,years,DEA 2022
+waste,2035,lifetime,25,years,DEA 2022
+hydro,2035,lifetime,60,years,ETRI 2014
+PHS,2035,lifetime,60,years,ETRI 2014
+battery,2035,lifetime,13,years,Schmidt 2019
+H2,2035,lifetime,18,years,Schmidt 2019
+onwind,2035,investment,1040,EUR/kWel,DEA 2022
+offwind,2035,investment,1800,EUR/kWel,DEA 2022
+solar_roof,2035,investment,840,EUR/kWel,DEA 2022
+solar_facade,2035,investment,840,EUR/kWel,DEA 2022
+ror,2035,investment,5620,EUR/kWel,ETRI 2014
+nuclear,2035,investment,4100,EUR/kWel,ETRI 2014
+gas,2035,investment,830,EUR/kWel,DEA 2022
+coal,2035,investment,1600,EUR/kWel,ETRI 2014
+lignite,2035,investment,2000,EUR/kWel,ETRI 2014
+geothermal,2035,investment,9000,EUR/kWel,ETRI 2014
+oil,2035,investment,340,EUR/kWel,DEA 2022
+biogas,2035,investment,2760,EUR/kWel,ETRI 2014
+woodybiomass,2035,investment,3360,EUR/kWel,DEA 2022
+waste,2035,investment,8600,EUR/kWel,DEA 2022
+hydro,2035,investment,3370,EUR/kWel,ETRI 2014
+PHS,2035,investment,3370,EUR/kWel,ETRI 2014
+hydro,2035,investment_p,921,EUR/kWel,Schmidt 2019
+PHS,2035,investment_p,921,EUR/kWel,Schmidt 2019
+battery,2035,investment_p,108,EUR/kWel,Schmidt 2019
+H2,2035,investment_p,2111,EUR/kWel,Schmidt 2019
+hydro,2035,investment_e,71,EUR/kWhel,Schmidt 2019
+PHS,2035,investment_e,71,EUR/kWhel,Schmidt 2019
+battery,2035,investment_e,128,EUR/kWhel,Schmidt 2019
+H2,2035,investment_e,12,EUR/kWhel,Schmidt 2019
+onwind,2035,FOM,1.2,% of CAPEX,DEA 2022
+offwind,2035,FOM,2.2,% of CAPEX,DEA 2022
+solar_roof,2035,FOM,1.3,% of CAPEX,DEA 2022
+solar_facade,2035,FOM,1.3,% of CAPEX,DEA 2022
+ror,2035,FOM,1.5,% of CAPEX,ETRI 2014
+nuclear,2035,FOM,1.9,% of CAPEX,ETRI 2014
+gas,2035,FOM,3.3,% of CAPEX,DEA 2022
+coal,2035,FOM,2.5,% of CAPEX,ETRI 2014
+lignite,2035,FOM,2.5,% of CAPEX,ETRI 2014
+geothermal,2035,FOM,1.9,% of CAPEX,ETRI 2014
+oil,2035,FOM,2.5,% of CAPEX,DEA 2022
+biogas,2035,FOM,4.1,% of CAPEX,ETRI 2014
+woodybiomass,2035,FOM,4.2,% of CAPEX,DEA 2022
+waste,2035,FOM,2.8,% of CAPEX,DEA 2022
+hydro,2035,FOM,0.7,% of CAPEX,Schmidt 2019
+PHS,2035,FOM,0.7,% of CAPEX,Schmidt 2019
+battery,2035,FOM,1.5,% of CAPEX,Schmidt 2019
+H2,2035,FOM,0.8,% of CAPEX,Schmidt 2019
+onwind,2035,VOM,1.4,EUR/MWhel,DEA 2022
+offwind,2035,VOM,3.9,EUR/MWhel,DEA 2022
+solar_roof,2035,VOM,0.1,EUR/MWhel,DEA 2022
+solar_facade,2035,VOM,0.1,EUR/MWhel,DEA 2022
+ror,2035,VOM,5,EUR/MWhel,ETRI 2014
+nuclear,2035,VOM,2.5,EUR/MWhel,ETRI 2014
+gas,2035,VOM,4.2,EUR/MWhel,DEA 2022
+coal,2035,VOM,3.6,EUR/MWhel,ETRI 2014
+lignite,2035,VOM,4.5,EUR/MWhel,ETRI 2014
+geothermal,2035,VOM,0,EUR/MWhel,ETRI 2014
+oil,2035,VOM,6,EUR/MWhel,DEA 2022
+biogas,2035,VOM,3.1,EUR/MWhel,ETRI 2014
+woodybiomass,2035,VOM,4.5,EUR/MWhel,DEA 2022
+waste,2035,VOM,25,EUR/MWhel,DEA 2022
+hydro,2035,VOM,1,EUR/MWhel,Schmidt 2019
+PHS,2035,VOM,1,EUR/MWhel,Schmidt 2019
+battery,2035,VOM,3,EUR/MWhel,Schmidt 2019
+H2,2035,VOM,0,EUR/MWhel,Schmidt 2019
+transmission,2035,VOM,2,EUR/MWhel,ETRI 2014
+onwind,2035,fuel,0,EUR/MWhel,assumption
+offwind,2035,fuel,0,EUR/MWhel,assumption
+solar_roof,2035,fuel,0,EUR/MWhel,assumption
+solar_facade,2035,fuel,0,EUR/MWhel,assumption
+ror,2035,fuel,0,EUR/MWhel,assumption
+nuclear,2035,fuel,7.9,EUR/MWhel,https://www.diw.de/documents/publikationen/73/diw_01.c.424566.de/diw_datadoc_2013-068.pdf
+nuclear,2035,uranium price,3,EUR/MWhth,https://www.diw.de/documents/publikationen/73/diw_01.c.424566.de/diw_datadoc_2013-068.pdf
+gas,2035,fuel,47,EUR/MWhel,WEO 2022
+gas,2035,gas price,29,EUR/MWhth,WEO 2022
+coal,2035,fuel,21,EUR/MWhel,ISE 2021
+coal,2035,coal price,10,EUR/MWhth,ISE 2021
+lignite,2035,fuel,4.2,EUR/MWhel,ISE 2021
+lignite,2035,lignite price,2,EUR/MWhth,ISE 2021
+geothermal,2035,fuel,0,EUR/MWhel,assumption
+oil,2035,fuel,143,EUR/MWhel,WEO 2022
+oil,2035,oil price,50,EUR/MWhth,WEO 2022
+biogas,2035,fuel,31,EUR/MWhel,https://www.diw.de/documents/publikationen/73/diw_01.c.424566.de/diw_datadoc_2013-068.pdf
+woodybiomass,2035,fuel,45,EUR/MWhel,https://www.diw.de/documents/publikationen/73/diw_01.c.424566.de/diw_datadoc_2013-068.pdf
+waste,2035,fuel,0,EUR/MWhel,assume that fuel is free
+onwind,2035,efficiency,1,-,ASSET Report
+offwind,2035,efficiency,1,-,ASSET Report
+solar_roof,2035,efficiency,1,-,ASSET Report
+solar_facade,2035,efficiency,1,-,ASSET Report
+hydro,2035,efficiency,0.9,-,https://www.diw.de/documents/publikationen/73/diw_01.c.424566.de/diw_datadoc_2013-068.pdf
+ror,2035,efficiency,0.9,-,https://www.diw.de/documents/publikationen/73/diw_01.c.424566.de/diw_datadoc_2013-068.pdf
+nuclear,2035,efficiency,0.38,-,ETRI 2014
+gas,2035,efficiency,0.61,-,DEA 2022
+coal,2035,efficiency,0.48,-,ETRI 2014
+lignite,2035,efficiency,0.47,-,ETRI 2014
+geothermal,2035,efficiency,0.12,-,ETRI 2014
+biogas,2035,efficiency,0.43,-,DEA 2022
+woodybiomass,2035,efficiency,0.28,-,DEA 2022
+waste,2035,efficiency,0.23,-,DEA 2022
+oil,2035,efficiency,0.35,-,DEA 2022
+PHS,2035,efficiency_store,0.9,-,PyPSA
+H2,2035,efficiency_store,0.63,-,Schmidt 2019
+battery,2035,efficiency_store,0.92,-,Schmidt 2019
+hydro,2035,efficiency_store,0,-,PyPSA
+PHS,2035,efficiency_dispatch,0.9,-,PyPSA
+H2,2035,efficiency_dispatch,0.63,-,Schmidt 2019
+battery,2035,efficiency_dispatch,0.92,-,Schmidt 2019
+hydro,2035,efficiency_dispatch,0.9,-,PyPSA
+gas,2035,CO2 intensity,0.34,tCO2/MWhel,ETRI 2014
+coal,2035,CO2 intensity,0.84,tCO2/MWhel,ETRI 2014
+lignite,2035,CO2 intensity,0.91,tCO2/MWhel,ETRI 2014
+geothermal,2035,CO2 intensity,0,tCO2/MWhel,assumption
+biogas,2035,CO2 intensity,0,tCO2/MWhel,assumption
+woodybiomass,2035,CO2 intensity,0,tCO2/MWhel,assumption
+waste,2035,CO2 intensity,0,tCO2/MWhel,assumption
+oil,2035,CO2 intensity,0.708,tCO2/MWhel,https://www.eia.gov/environment/emissions/co2_vol_mass.php
+general,2035,WACC,0.03,-,http://re-frame.eu/
+onwind,2035,Jobs,0.53,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+offwind,2035,Jobs,1.07,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+solar_roof,2035,Jobs,1.27,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+solar_facade,2035,Jobs,1.27,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+hydro,2035,Jobs,0.32,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+ror,2035,Jobs,0.32,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+nuclear,2035,Jobs,0.8,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+gas,2035,Jobs,0.19,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+coal,2035,Jobs,0.46,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+lignite,2035,Jobs,0.46,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+geothermal,2035,Jobs,0.63,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+oil,2035,Jobs,0.18,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+biogas,2035,Jobs,2.22,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+woodybiomass,2035,Jobs,2.07,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+waste,2035,Jobs,2.07,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+PHS,2035,Jobs,1.15,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+battery,2035,Jobs,0.35,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+H2,2035,Jobs,0.63,job/MW,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+transmission,2035,Jobs,180,job/TWkm,own calculation (Rutovitz 2015 + E3M Lab + Breyer (Batteries) + EUROSTAT)
+gas,2035,PM10,0.101,kgPM10/MWhel,https://doi.org/10.1038/s41467-019-13067-8
+coal,2035,PM10,0.206,kgPM10/MWhel,https://doi.org/10.1038/s41467-019-13067-8
+lignite,2035,PM10,0.32,kgPM10/MWhel,https://doi.org/10.1038/s41467-019-13067-8
+geothermal,2035,PM10,0.001,kgPM10/MWhel,https://doi.org/10.1038/s41467-019-13067-8
+biogas,2035,PM10,0.2,kgPM10/MWhel,https://doi.org/10.1038/s41467-019-13067-8
+woodybiomass,2035,PM10,0.334,kgPM10/MWhel,https://doi.org/10.1038/s41467-019-13067-8
+waste,2035,PM10,0.1,kgPM10/MWhel,https://doi.org/10.1038/s41467-019-13067-8
+oil,2035,PM10,0.2,kgPM10/MWhel,https://doi.org/10.1038/s41467-019-13067-8
+onwind,2035,LandUse,3994.56,m2/MW,https://doi.org/10.1016/j.rser.2008.09.017
+solar_roof,2035,LandUse,0,m2/MW,https://doi.org/10.1016/j.rser.2008.09.017
+solar_facade,2035,LandUse,0,m2/MW,https://doi.org/10.1016/j.rser.2008.09.017
+hydro,2035,LandUse,12570.6,m2/MW,https://doi.org/10.1016/j.rser.2008.09.017
+ror,2035,LandUse,9.724,m2/MW,https://doi.org/10.1016/j.rser.2008.09.017
+nuclear,2035,LandUse,851.472,m2/MW,https://doi.org/10.1016/j.rser.2008.09.017
+gas,2035,LandUse,1031.928,m2/MW,https://doi.org/10.1016/j.rser.2008.09.017
+coal,2035,LandUse,110,m2/MW,Ecoinvent 3.8 (2021)
+lignite,2035,LandUse,115.1315789,m2/MW,Ecoinvent 3.8 (2021)
+geothermal,2035,LandUse,2500,m2/MW,Ecoinvent 3.8 (2021)
+oil,2035,LandUse,250,m2/MW,Ecoinvent 3.8 (2021)
+biogas,2035,LandUse,77569.8,m2/MW,https://doi.org/10.1016/j.rser.2008.09.017
+woodybiomass,2035,LandUse,77569.8,m2/MW,https://doi.org/10.1016/j.rser.2008.09.017
+waste,2035,LandUse,2172.48,m2/MW,https://doi.org/10.1016/j.rser.2008.09.017
+PHS,2035,LandUse,12570.6,m2/MW,assume like dams
+battery,2035,LandUse,500,m2/MW,assume like half of gas
+H2,2035,LandUse,500,m2/MW,assume like half of gas
+battery,2035,max_hours,6,hours,Schmidt 2019
+H2,2035,max_hours,168,hours,Schmidt 2019
+transmission,2035,p_max_pu,0.5,-,allowed power flow per capacity
+transmission,2035,cap_exp,2,-,max capacity expansion
+nuclear,2035,p_min_pu,0.6,per unit,https://www.sciencedirect.com/science/article/pii/S0149197018301938#sec2
+gas,2035,p_min_pu,0.2,per unit,Garrison 2014 Table 3.10
+coal,2035,p_min_pu,0.5,per unit,Garrison 2014 Table 3.10
+lignite,2035,p_min_pu,0.5,per unit,Garrison 2014 Table 3.10
+geothermal,2035,p_min_pu,0.5,per unit,Garrison 2014 Table 3.10
+oil,2035,p_min_pu,0.2,per unit,Garrison 2014 Table 3.10
+biogas,2035,p_min_pu,0.5,per unit,DEA 2022
+woodybiomass,2035,p_min_pu,0.5,per unit,DEA 2022
+waste,2035,p_min_pu,0.7,per unit,DEA 2022
+battery,2035,p_min_pu,-1,per unit,assumption
+H2,2035,p_min_pu,-1,per unit,assumption
+nuclear,2035,ramp_limit,0.05,per unit per hour,assumes that nuclear can only do 200 cycles per year; https://www.sciencedirect.com/science/article/pii/S0149197018301938#sec2
+gas,2035,ramp_limit,1,per unit per hour,Garrison 2014 Table 3.10
+coal,2035,ramp_limit,0.15,per unit per hour,Garrison 2014 Table 3.10
+lignite,2035,ramp_limit,0.15,per unit per hour,Garrison 2014 Table 3.10
+geothermal,2035,ramp_limit,0.5,per unit per hour,Garrison 2014 Table 3.10
+oil,2035,ramp_limit,1,per unit per hour,Garrison 2014 Table 3.10
+biogas,2035,ramp_limit,1,per unit per hour,DEA 2022
+woodybiomass,2035,ramp_limit,1,per unit per hour,DEA 2022
+waste,2035,ramp_limit,0.15,per unit per hour,DEA 2022
+battery,2035,ind_land_availability,0.02,share of all industrial land,assumption
+H2,2035,ind_land_availability,0.02,share of all industrial land,assumption
